@@ -6,4 +6,4 @@
 ## Полезные файлы
 ### Конфигурации стиля кода
 
-- [Git](files/codestyle/idea/cpp.xml)
+- [C / C++](files/codestyle/idea/cpp.xml)
